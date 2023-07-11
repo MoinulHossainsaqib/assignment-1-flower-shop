@@ -1,0 +1,25 @@
+/* FONT STYLE SHARED */
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* HEADER */
+
+.main-header {
+    background: rgba(229, 84, 115, 0.10);
+    display: flex;
+    justify-content: space-between;
+
+}
+.title-info-btn {
+
+    margin: 300px;
+}
+.btn-primary {
+    border-radius: 8px;
+    background: #E55473;
+    padding: 16px 22px;
+    color: white;
+    border-style: none;
+}
