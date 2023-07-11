@@ -1,4 +1,4 @@
-/* FONT STYLE SHARED */
+/* FONT STYLES SHARED */
 
 body {
     font-family: 'Open Sans', sans-serif;
@@ -12,14 +12,74 @@ body {
     justify-content: space-between;
 
 }
+
 .title-info-btn {
 
     margin: 300px;
 }
+
 .btn-primary {
     border-radius: 8px;
     background: #E55473;
     padding: 16px 22px;
     color: white;
     border-style: none;
+}
+
+/* FIRST MAIN SECTION STARTS */
+
+.my-section {
+    text-align: center;
+}
+
+.three-flowers {
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+    text-align: center;
+}
+
+
+.flower-one {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 390px;
+    height: 500px;
+}
+.img-1 {
+    width: 300px;
+    height: 499px;
+}
+.pink {
+    color: black;
+}
+
+
+.flower-two {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    width: 390px;
+    height: 500px;
+}
+.img-2 {
+    width: 300px;
+    height: 499px;
+}
+.gerbera {
+    color: black;
+}
+
+
+.flower-three {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    width: 390px;
+    height: 500px;
+}
+.img-3 {
+    width: 300px;
+    height: 499px;
+}
+.yellow {
+    color: black;
 }
