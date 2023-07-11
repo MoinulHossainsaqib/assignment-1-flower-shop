@@ -92,5 +92,17 @@ body {
     background: rgba(77, 3, 19, 0.1);
     padding: 50px 35px 50px 35px;
     margin: 200px 200px;
-    
+}
+
+/* THIRD MAIN SECTION */
+
+.deal{
+    background: rgba(229, 84, 115, 0.10);
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.title-info-btn-2{
+    margin: 180px;
+    display: inline;
 }
