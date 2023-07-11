@@ -4,6 +4,12 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+/* COMMON FONT COLOR */
+
+.com-col{
+    color: #E55473;}
+
+
 /* HEADER */
 
 .main-header {
@@ -89,6 +95,7 @@ body {
 .yellow {
     color: black;
 }
+
 
 /* SECOND MAIN SECTION */
 
