@@ -134,8 +134,9 @@ body {
     background-size: contain;
     background-repeat: no-repeat;
     width: auto;
-    height: 1000px;
+    height: 500px;
     margin: 60px;
+    margin-left: 150px;
 }
 
 .title-info-btn-3 {
@@ -146,4 +147,14 @@ body {
     padding: 16px 22px;
     color: white;
     border-style: none;
+}
+
+/* THE END */
+
+.the-end{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 40px 10px 40px 10px;
 }
