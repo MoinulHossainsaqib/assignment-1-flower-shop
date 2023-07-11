@@ -104,5 +104,16 @@ body {
 }
 .title-info-btn-2{
     margin: 180px;
-    display: inline;
+}
+
+/* FOURTH MAIN SECTION */
+
+.instagram{
+    text-align: center;
+    margin: 115px;
+}
+.instagram-image{
+    display: flex;
+    justify-content: center;
+    gap: 1%;
 }
