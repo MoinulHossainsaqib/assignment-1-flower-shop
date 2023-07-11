@@ -83,3 +83,14 @@ body {
 .yellow {
     color: black;
 }
+
+/* SECOND MAIN SECTION */
+
+.my-second-section{
+    margin-top: 200PX;
+    text-align: center;
+    background: rgba(77, 3, 19, 0.1);
+    padding: 50px 35px 50px 35px;
+    margin: 200px 200px;
+    
+}
